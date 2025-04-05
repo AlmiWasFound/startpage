@@ -81,7 +81,6 @@ const default_config = {
           ],
         },
         {
-        {
           name: "",
           links: [
             {
