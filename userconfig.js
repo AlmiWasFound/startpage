@@ -27,9 +27,9 @@ const default_config = {
               icon_color: palette.green,
             },
             {
-              name: "docs",
-              url: "https://docs.google.com/document/u/0/",
-              icon: "file-text",
+              name: "roblox",
+              url: "roblox.com",
+              icon: "device-gamepad",
               icon_color: palette.blue,
             },
           ],
@@ -50,9 +50,9 @@ const default_config = {
               icon_color: palette.peach,
             },
             {
-              name: "twitter",
-              url: "https://x.com",
-              icon: "brand-x",
+              name: "translate",
+              url: "https://translate.google.com/?sl=auto&tl=en&op=translate",
+              icon: "message-language",
               icon_color: palette.text,
             },
           ],
@@ -62,15 +62,15 @@ const default_config = {
           links: [
             {
               name: "github",
-              url: "https://github.com/ashish0kumar",
+              url: "https://github.com/almiwasfound",
               icon: "brand-github",
-              icon_color: palette.green,
+              icon_color: palette.blue,
             },
             {
-              name: "devdocs",
-              url: "https://devdocs.io",
-              icon: "code",
-              icon_color: palette.blue,
+              name: "whatsapp",
+              url: "https://web.whatsapp.com/",
+              icon: "brand-whatsapp",
+              icon_color: palette.green,
             },
             {
               name: "hacker-news",
@@ -81,28 +81,6 @@ const default_config = {
           ],
         },
         {
-          name: "",
-          links: [
-            {
-              name: "leetcode",
-              url: "https://leetcode.com/u/ashish0kumar/",
-              icon: "brand-leetcode",
-              icon_color: palette.yellow,
-            },
-            {
-              name: "dsa",
-              url: "https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2",
-              icon: "binary-tree",
-              icon_color: palette.red,
-            },
-            {
-              name: "udemy",
-              url: "https://www.udemy.com/home/my-courses/learning/",
-              icon: "certificate",
-              icon_color: palette.lavender,
-            },
-          ]
-        },
         {
           name: "",
           links: [
@@ -113,9 +91,9 @@ const default_config = {
               icon_color: palette.teal,
             },
             {
-              name: "claude",
-              url: "https://claude.ai/new",
-              icon: "north-star",
+              name: "deepseek",
+              url: "https://chat.deepseek.com/",
+              icon: "fish",
               icon_color: palette.peach,
             },
             {
