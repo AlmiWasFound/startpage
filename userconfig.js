@@ -73,9 +73,9 @@ const default_config = {
               icon_color: palette.green,
             },
             {
-              name: "hacker-news",
-              url: "https://news.ycombinator.com",
-              icon: "news",
+              name: "monkeytype",
+              url: "https://monkeytype.com/",
+              icon: "keyboard",
               icon_color: palette.peach,
             },
           ],
